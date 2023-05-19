@@ -1,0 +1,111 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": false,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": false,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": false,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "Historical_Photos_Updated_51723_473": {
+      "display": true
+    },
+    "Railway_Lines_Update_51623_9814": {
+      "display": true
+    },
+    "agsmap029611_tif_4833": {
+      "display": false
+    },
+    "agsmap029989_tif_8255": {
+      "display": false
+    },
+    "agsmap029992_tif_2216": {
+      "display": false
+    },
+    "agsmap029758_tif_1800": {
+      "display": false
+    },
+    "agsmap029870_tif_6926": {
+      "display": false
+    },
+    "agsmap029787_tif_346": {
+      "display": false
+    },
+    "agsmap029676_tif_162": {
+      "display": false
+    },
+    "agsmap029814_tif_1017": {
+      "display": false
+    },
+    "agsmap029677_a_cropped_tif_4390": {
+      "display": false
+    },
+    "agsmap029757_tif_1482": {
+      "display": false
+    },
+    "agsmap029983_tif_3137": {
+      "display": false
+    },
+    "agsmap029879_tif_4150": {
+      "display": false
+    },
+    "agsmap029881_tif_4757": {
+      "display": false
+    },
+    "agsmap029878_tif_3498": {
+      "display": false
+    },
+    "agsmap029889_tif_657": {
+      "display": false
+    },
+    "agsmap029834_tif_7530": {
+      "display": false
+    },
+    "agsmap029706_tif_5033": {
+      "display": false
+    },
+    "agsmap029961_tif_4261": {
+      "display": false
+    },
+    "agsmap029960_tif_1598": {
+      "display": false
+    },
+    "agsmap029739_tif_8003": {
+      "display": false
+    },
+    "agsmap029880_tif_902": {
+      "display": false
+    },
+    "agsmap029789_tif_4931": {
+      "display": false
+    },
+    "agsmap029836_correct_tif_5955": {
+      "display": false
+    },
+    "agsmap029835_tif_5214": {
+      "display": false
+    },
+    "agsmap029788_tif_8028": {
+      "display": false
+    },
+    "agsmap029938_tif_6157": {
+      "display": false
+    },
+    "agsmap029991_tif_1994": {
+      "display": false
+    },
+    "agsmap029990_tif_1126": {
+      "display": false
+    },
+    "agsmap029857_tif_6099": {
+      "display": false
+    }
+  }
+}

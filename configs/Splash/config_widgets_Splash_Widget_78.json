@@ -1,0 +1,34 @@
+{
+  "splash": {
+    "splashContent": "<div> </div>\n\t<div align=\"center\">\n\t<font size=\"6\" style=\"color: rgb(240, 230, 140);\"><span style=\"font-weight: bold;\"><span style=\"font-family: Garamond;\">Welcome!<br /></span></span></font></div><div align=\"center\"><span style=\"font-weight: bold; color: rgb(240, 230, 140);\"><font size=\"5\"><span style=\"font-family: Garamond;\"><span style=\"background-color: rgb(192, 192, 192);\"></span><span style=\"background-color: rgb(0, 128, 0);\"></span></span></font></span><font size=\"4\" style=\"color: rgb(240, 230, 140);\"><span style=\"font-family: Garamond;\"><span style=\"font-weight: bold;\">Click the icons on the left to brows</span></span></font><span style=\"color: rgb(238, 232, 170);\"><font size=\"4\"><span style=\"font-family: Garamond;\"><span style=\"font-weight: bold;\">e:</span></span></font></span></div><div align=\"center\"><span style=\"font-family: Garamond;\"></span><ul style=\"text-align: left;\"><li><font size=\"4\" style=\"font-family: Garamond; font-weight: bold; color: rgb(238, 232, 170);\">Basemaps</font><br /><font size=\"4\"><span style=\"font-family: Garamond; color: rgb(240, 230, 140); font-weight: bold;\"></span></font></li><li><font size=\"4\"><span style=\"font-family: Garamond; color: rgb(240, 230, 140); font-weight: bold;\">Historical Railway Maps</span></font></li><li><font size=\"4\"><span style=\"font-family: Garamond; color: rgb(240, 230, 140); font-weight: bold;\">Historical Railway Photography Filter</span></font></li><li><font size=\"4\"><span style=\"font-family: Garamond; color: rgb(240, 230, 140); font-weight: bold;\">Railway Lines</span></font></li></ul><div><span style=\"font-family: Garamond; color: rgb(240, 230, 140);\"><font size=\"4\"><span style=\"font-weight: bold;\">Enjoy!</span></font></span><br /></div></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": true,
+    "confirmEverytime": true,
+    "contentVertical": "middle",
+    "size": {
+      "mode": "wh",
+      "wh": {
+        "w": 560,
+        "h": 320
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20file%20chosen",
+      "color": "#006400",
+      "transparency": 0.25
+    },
+    "button": {
+      "color": "#ff8c00",
+      "transparency": 0,
+      "text": "Explore"
+    }
+  }
+}
